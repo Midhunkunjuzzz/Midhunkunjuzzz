@@ -11,7 +11,7 @@ Welcome to my GitHub profile! 🚀
 - 🌱 I’m learning **Cybersecurity, Ethical Hacking & Programming**
 - 💻 Passionate about **Technology, Security, and Open Source**
 - 🤝 I’m open to collaborating on **Cybersecurity Projects**
-- 📫 Reach me at: **[your-email@example.com]**
+- 📫 Reach me at: **midhunnarayanan88@gmail.com**
 - ⚡ Fun fact: I love exploring how systems work and how to secure them 🔐
 
 ---
